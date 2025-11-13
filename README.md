@@ -6,30 +6,29 @@
 
 ---
 
-## 🎯 Foco atual
-- 📊 Análise e exploração de dados  
-- 🤖 Machine Learning e fundamentos de IA  
-- 🐍 Ecossistema Python para dados  
-- 📈 Visualização e storytelling  
-- 🔁 Git/GitHub para projetos profissionais  
+## Foco
+- Análise e exploração de dados  
+- Machine Learning e fundamentos de IA  
+- Ecossistema Python para dados  
+- Visualização e storytelling  
+- Git/GitHub para projetos profissionais  
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-Atualmente estudo e pratico Python aplicado a dados, automação e IA.  
-Busco experiência prática com:
+Estudo e prático Python aplicado a dados, automação e IA.  
+Estou sempre em busca de experiência prática com:
 
-- Tratamento e preparação de dados  
-- Construção de scripts e notebooks  
-- Pequenos modelos de Machine Learning  
+- Tratamento e preparação de dados    
+- Modelos de Machine Learning  
 - Boas práticas em versionamento  
 
 Sempre buscando evoluir e aplicar tecnologia de forma inteligente.
 
 ---
 
-## 🛠️ Stack de Dados & IA
+## Stack de Dados & IA
 
 <div align="center" style="display: inline_block"><br>
   <img alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -43,7 +42,7 @@ Sempre buscando evoluir e aplicar tecnologia de forma inteligente.
 
 ---
 
-## 🏅 Certificações
+## Certificações
 
 <p align="center">
   <a href="https://github.com/Vinicius0606/Certificates">
@@ -53,7 +52,7 @@ Sempre buscando evoluir e aplicar tecnologia de forma inteligente.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vinicius0606&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -62,9 +61,9 @@ Sempre buscando evoluir e aplicar tecnologia de forma inteligente.
 
 ---
 
-## 🔗 Onde me encontrar
+## Onde me encontrar
 
-- 💼 LinkedIn: **https://www.linkedin.com/in/vinícius-ribeiro-peixoto**
+- LinkedIn: **https://www.linkedin.com/in/vinícius-ribeiro-peixoto**
 
 ---
 
