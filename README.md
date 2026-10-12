@@ -52,15 +52,6 @@ Sempre buscando evoluir e aplicar tecnologia de forma inteligente.
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vinicius0606&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinicius0606&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## Onde me encontrar
 
 - LinkedIn: **https://www.linkedin.com/in/vinícius-ribeiro-peixoto**
